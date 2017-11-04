@@ -1,1 +1,1 @@
-# go-simple-deno
+# go-simple-demo
